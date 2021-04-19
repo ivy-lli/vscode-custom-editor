@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2017-3-29: Created.
+-->
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>
+Created by FontForge 20120731 at Wed Mar 29 07:30:03 2017
+ By icons8
+
+</metadata>
+<defs>
+<font id="ivy-cm-icons" horiz-adv-x="512" >
+  <font-face 
+    font-family="ivy-cm-icons"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="512"
+    panose-1="2 0 6 3 0 0 0 0 0 0"
+    ascent="448"
+    descent="-64"
+    bbox="86.4001 -23.4668 427.734 406.933"
+    underline-thickness="25.6"
+    underline-position="-51.2"
+    unicode-range="U+0020-F111"
+  />
+    <missing-glyph />
+    <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
+ />
+    <glyph glyph-name="onentrycondition" unicode="&#xf111;" 
+d="M270.934 369.066v0v0zM256 352l-128 -157.866v-2.13379l128 -157.866l128 157.866v2.13379zM256 405.333v0c6.40039 0 12.7998 -2.13281 17.0664 -8.5332l142.934 -177.066c12.7998 -17.0664 12.7998 -40.5332 0 -57.5996l-142.934 -177.067
+c-4.2666 -6.39941 -10.666 -8.5332 -17.0664 -8.5332s-12.7998 2.13379 -17.0664 8.5332l-142.934 177.067c-12.7998 17.0664 -12.7998 40.5332 0 57.5996l142.934 177.066c4.2666 6.40039 10.666 8.5332 17.0664 8.5332z" />
+    <glyph glyph-name="oncompleteaction" unicode="&#xf110;" 
+d="M238.934 -12.7998l-142.934 177.066c-12.7998 17.0664 -12.7998 40.5332 0 57.5996l142.934 177.067c8.5332 10.666 25.5996 10.666 36.2666 0l142.934 -177.067c12.7998 -17.0664 12.7998 -40.5332 0 -57.5996l-142.934 -177.066
+c-10.667 -10.667 -27.7334 -10.667 -36.2666 0z" />
+  </font>
+</defs></svg>

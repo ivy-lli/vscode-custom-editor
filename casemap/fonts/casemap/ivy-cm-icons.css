@@ -1,0 +1,44 @@
+/*
+ * Icon Font ivy-cm-icons
+ */
+
+@font-face {
+  font-family: "ivy-cm-icons";
+  src: url("ivy-cm-icons.eot");
+  src: url("ivy-cm-icons.eot?#iefix") format("embedded-opentype"),
+       url("ivy-cm-icons.woff2") format("woff2"),
+       url("ivy-cm-icons.woff") format("woff"),
+       url("ivy-cm-icons.ttf") format("truetype"),
+       url("ivy-cm-icons.svg#ivy-cm-icons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "ivy-cm-icons";
+    src: url("ivy-cm-icons.svg#ivy-cm-icons") format("svg");
+  }
+}
+
+[data-ivy-cm-icons]:before { content: attr(data-ivy-cm-icons); }
+
+.ivy-cm-icons, [data-ivy-cm-icons]:before,
+.ivy-cm-icons-oncompleteaction:before,
+.ivy-cm-icons-onentrycondition:before {
+  display: inline-block;
+  font-family: "ivy-cm-icons";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.ivy-cm-icons-oncompleteaction:before { content: "\f110"; }
+.ivy-cm-icons-onentrycondition:before { content: "\f111"; }
